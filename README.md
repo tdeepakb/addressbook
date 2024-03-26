@@ -1,4 +1,3 @@
-Adding line for POLL SCM
 
 Addressbook Tutorial
 ====================
