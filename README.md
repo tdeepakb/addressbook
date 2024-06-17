@@ -1,4 +1,4 @@
-gitweb-hook added in new
+
 Addressbook Tutorial
 ====================
 
