@@ -1,4 +1,4 @@
-This is my re
+This is
 Addressbook Tutorial
 ====================
 
