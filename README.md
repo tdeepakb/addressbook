@@ -1,4 +1,4 @@
-This is the best
+This is the
 Addressbook Tutorial
 ====================
 
