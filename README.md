@@ -1,4 +1,4 @@
-This is the new code added
+This is the new code
 Addressbook Tutorial
 ====================
 
