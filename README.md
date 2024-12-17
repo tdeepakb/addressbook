@@ -1,4 +1,4 @@
-This is the new code changes something
+This is the new code changes
 Addressbook Tutorial
 ====================
 
