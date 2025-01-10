@@ -1,4 +1,4 @@
-This is the new code 7 time or .
+This is the new code 7 time .
 Addressbook Tutorial
 ====================
 
