@@ -1,4 +1,4 @@
-This here i will compile job running and again running test job & run package job.
+This is mybuild pipeline view edited here so it will show in one frame.
 Addressbook Tutorial
 ====================
 
