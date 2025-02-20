@@ -1,4 +1,4 @@
-This is mybuild pipeline view edited here so it will show in one frame.
+This is mybuild pipeline.
 Addressbook Tutorial
 ====================
 
