@@ -1,4 +1,4 @@
-This is mybuild pipeline new added jd here.
+This is mybuild pipeline new added jd.
 Addressbook Tutorial
 ====================
 
